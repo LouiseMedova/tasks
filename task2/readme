@@ -1,0 +1,1 @@
+"node parser.js" reads information from a test.txt and writes a response to res.txt

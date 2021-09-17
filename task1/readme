@@ -1,0 +1,3 @@
+sort.js contains three sorting functions specified in the assignment
+tests.js contains three test arrays as well as the correct answers
+"node sort.js" should not return anything on success
